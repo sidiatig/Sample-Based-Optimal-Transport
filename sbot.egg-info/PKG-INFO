@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: sbot
+Version: 0.1
+Summary: Sample based optimal transport solver
+Home-page: https://github.com/monty47/sbot
+Author: Monty Essid
+Author-email: UNKNOWN
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: # Sample-Based-Optimal-Transport
+        Tools for solving the sample based optimal transport problem. Requires Python (3.x preffered) and numpy,scipy
+        
+Keywords: optimal transport data sample pointcloud
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

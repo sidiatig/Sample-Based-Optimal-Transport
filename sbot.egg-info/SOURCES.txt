@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+sbot/__init__.py
+sbot.egg-info/PKG-INFO
+sbot.egg-info/SOURCES.txt
+sbot.egg-info/dependency_links.txt
+sbot.egg-info/not-zip-safe
+sbot.egg-info/requires.txt
+sbot.egg-info/top_level.txt
