@@ -16,7 +16,7 @@ For now the package includes:
 * ot_map : Reconstructs the global optimal transport from the outputs of sot
 
 ## Installation
-Downlaod the file sbot-0.1.tar.gz located in the 'dist' folder. Run the command 'pip install sbot-0.1.tar.gz' (after changing your working directory to where the file is downloaded).
+Downlaod the file sbot-0.1.tar.gz (.zip for windows) located in the 'dist' folder. Run the command 'pip install sbot-0.1.tar.gz', (or 'pip install sbot-0.1.zip') after changing your working directory to where the file is downloaded.
 
 ## Examples
 Examples and explanations are included in the SampleBasedOT.ipynb Jupyter notebook in the 'notebooks' folder.
