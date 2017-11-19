@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='sbot',
-    version='0.1',
+    version='0.1.1',
     description='Sample based optimal transport solver',
     long_description=open('README.md').read(),
     url='https://github.com/monty47/sbot',

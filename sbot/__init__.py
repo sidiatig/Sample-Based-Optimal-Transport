@@ -138,7 +138,6 @@ def sot(x,y,F,GF,K=10,tol=1e-1,Maxiter=50,local_ot = local_sot):
 
     return(x_K, s_maps)
 
-
 def ot_map(GF,s_maps):
     '''Reconstructs optimal transport map given the basis functions and the coefficients
     of the local maps at every steps. Returns the composition of these local maps.

@@ -13,10 +13,10 @@ For now the package includes:
 * igd_sover : A nonlinear minimization solver based on implicit gradient descent. Convergence to a global minimizer isn't guaranteed.
 * local_sot : A solver for sample based __local__ optimal transport.
 * sot : A solver for sample based optimal transport.
-* ot_map : Reconstructs the global optimal transport from the outputs of sot
+* ot_map : Reconstructs the global optimal transport map from the outputs of the sot solver.
 
 ## Installation
-Downlaod the file sbot-0.1.tar.gz (.zip for windows) located in the 'dist' folder. Run the command 'pip install sbot-0.1.tar.gz', (or 'pip install sbot-0.1.zip') after changing your working directory to where the file is downloaded.
+Download the file sbot-0.1.tar.gz located in the 'dist' folder. Run the command 'pip install sbot-0.1.tar.gz' after changing your working directory to where the file is downloaded.
 
 ## Examples
 Examples and explanations are included in the SampleBasedOT.ipynb Jupyter notebook in the 'notebooks' folder.
